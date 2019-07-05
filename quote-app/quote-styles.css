@@ -1,0 +1,53 @@
+* {
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: #3D9970;
+}
+
+.author {
+    margin-bottom: 0px;
+}
+
+button {
+    width: 30%;
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+    border: 1px solid black;
+}
+
+button:hover { 
+  background-color: white;
+    color: black;
+}
+
+#quote {
+    font-size: 30px;
+}
+
+#author {
+    font-size: 25px;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+
+.container {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 40px;
+    line-height: 1.4;
+    border: 1px solid black;
+}
+
+.container2 {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 40px;
+    line-height: 1.4;
+}
